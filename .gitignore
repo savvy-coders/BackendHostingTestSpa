@@ -3,5 +3,6 @@
 dist
 node_modules
 *.sw*
-.parcel-cache
+/.parcel-cache/
+.idea
 
