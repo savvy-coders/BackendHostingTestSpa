@@ -1,1 +1,3 @@
-Use this repository to start class for the lesson 6.1
+### This is the Class SPA for August 2022 :)
+
+## Matt is a really cool dude :)
