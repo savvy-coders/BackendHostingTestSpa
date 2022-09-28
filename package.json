@@ -2,6 +2,7 @@
   "name": "savvy-starter",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "scripts": {
     "parcel-build": "parcel build index.html && cp _redirects ./dist/",
     "serve": "parcel index.html"
@@ -26,6 +27,7 @@
     "lodash": "^4.17.21",
     "navigo": "^8.11.1",
     "parcel": "^2.7.0",
+    "parcel-bundler": "^1.12.5",
     "yargs-parser": ">=13.1.2"
   }
 }
